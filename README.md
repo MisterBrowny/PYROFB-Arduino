@@ -8,11 +8,11 @@ et rechercher EnableInterrupt la version 0.9.8 est fonctionnelle.
 
 Merci à Mike "GreyGnome" Schwager pour ce partage.
 
-Programmer le Arduino avec le code dans Sketch.ino
+Programmer l'Arduino avec le code dans Sketch.ino
 
-Les BUS-INFO-OUT des séquenceurs doivent être connectés à la pin 4,5,6,7 de l'arduino
+Les BUS-INFO-OUT des séquenceurs doivent être connectés à la pin 4, 5, 6, 7 de l'arduino
 
-Connecté une GND du séquenceur vers l'arduino
+Connecter une GND du séquenceur vers l'arduino
 
 ouvrir le moniteur série RS232 de l'IDE Arduino
 
