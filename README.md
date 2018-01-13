@@ -20,5 +20,4 @@ Chaque changement d'état ARMED/GO/STOP/END doit être tracé
 
 En plus de l'état du séquenceur sur le moniteur série, il est possible de brancher des LED en matrice:
 C1, C2, C3, C4: 10, 11, 12, 13 //	L1, L2, L3, L4:	0, 1, 2, 3
-
-Afin de pouvoir visualiser l'état des séquenceurs.
+Pour les branchements voir le document docs\MATRIX LED.pdf
