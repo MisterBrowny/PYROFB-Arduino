@@ -14,12 +14,11 @@ Les BUS-INFO-OUT des séquenceurs doivent être connectés à la pin 4, 5, 6, 7 
 
 Connecter une GND du séquenceur vers l'arduino
 
-ouvrir le moniteur série RS232 de l'IDE Arduino
+Ouvrir le moniteur série RS232 de l'IDE Arduino
 
 Chaque changement d'état ARMED/GO/STOP/END doit être tracé
 
 En plus de l'état du séquenceur sur le moniteur série, il est possible de brancher des LED en matrice:
-C1, C2, C3, C4: 10, 11, 12, 13
-L1, L2, L3, L4:	0, 1, 2, 3
+C1, C2, C3, C4: 10, 11, 12, 13 //	L1, L2, L3, L4:	0, 1, 2, 3
 
 Afin de pouvoir visualiser l'état des séquenceurs.
